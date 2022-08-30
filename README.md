@@ -20,4 +20,4 @@ precamera.py是预处理文件
 late_name.py是缺勤名单
 trained_knn_model.clf是KNN算法模型
 knn_examples文件夹包含了训练集和测试集
-仅供学习交流探讨使用 另外自身接单各类代码 qq 2934218525 备注来意
+仅供学习交流探讨使用 qq 2934218525 备注来意
